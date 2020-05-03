@@ -1,0 +1,22 @@
+
+body{
+	color:steelblue;
+	margin:0;
+	text-align: center;
+	font-family:'Righteous', cursive;
+}
+	
+h1{
+	font-family:'Righteous', cursive;
+	font-size: 4px;
+	color: cornflowerblue;
+}
+div.container{
+	position:static;
+	padding-top: 100px;
+}
+div.contenedorinferior{
+	background-color: lavender;
+	position: relative;
+	padding-top: 100px;
+}
